@@ -1,0 +1,1 @@
+no switch só é possível utilizar types char, int, byte, short, enum, String
